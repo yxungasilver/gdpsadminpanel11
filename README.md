@@ -1,3 +1,5 @@
+***DOWNLOAD THE .ZIP FILE TO SEE EVERY FILE YOU NEED, DON'T USE ONLY THE FILES YOU CAN SEE HERE, USE EVERYTHING IN THE .ZIP FILE AND UPLOAD IT TO YOUR SERVER ONCE YOU'RE DONE EDITING IT.***
+
 # AdminGDPS
 Just by adding these files to your Geometry Dash Private Server you will have control over the accounts and moderators of your server.
 
